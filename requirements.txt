@@ -1,0 +1,12 @@
+flask==3.0.3
+flask-cors==4.0.1
+scapy==2.5.0
+requests==2.32.3
+
+
+
+Why these packages?
+flask → backend server
+flask-cors → allow React to connect to Flask
+scapy → packet sniffing (core feature)
+requests → IP location API calls
