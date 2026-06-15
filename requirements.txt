@@ -10,3 +10,15 @@ flask → backend server
 flask-cors → allow React to connect to Flask
 scapy → packet sniffing (core feature)
 requests → IP location API calls
+
+
+To run frontend 
+In windows
+>cd frontend
+>cd dashboard
+>npm start
+
+To run backend
+In windows
+>cd backend
+>python server.py
